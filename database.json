@@ -1,5 +1,5 @@
 // Roblox Version: version-2b1721d47abf49aa
-// Dumped at: 2026-05-23 23:13:49
+// Dumped at: 2026-05-24 00:44:07
 // Total FFlags: 13122
 // soulovery'all
 // Fuck Roblox
@@ -8089,7 +8089,7 @@
   "RBXASSERT_CLI155124_RolloutScale": "10000",
   "RBXAssert": "1286",
   "RCC28699": "0",
-  "RCCChannelName": ""production"",
+  "RCCChannelName": """",
   "RCCDMChangeTrackingEnablePlaceFileElide": "false",
   "RCCJoinTransmissionStatsHundredthsPercentage": "0",
   "RCCLoadInternalModuleInfo": "774",
@@ -8847,7 +8847,7 @@
   "RenderTextureDebugVisualization": "0",
   "RenderTextureLoadingBudgetMB": "1024",
   "RenderTextureLoadingMaxCount": "16384",
-  "RenderTextureLoadingMaxMB": "668",
+  "RenderTextureLoadingMaxMB": "669",
   "RenderTextureLoadingMinMB": "16",
   "RenderTextureManagerBudget": "0",
   "RenderTextureManagerBudgetFor4k": "0",
@@ -10666,7 +10666,7 @@
   "StudioMeshStreamingGreyOutRenderFidelity": "true",
   "StudioObjectExportPassHiToGenerator": "false",
   "StudioObjectExportTelemetry": "true",
-  "StudioOpenWithStreaming": "true",
+  "StudioOpenWithStreaming": "false",
   "StudioOpenWithStreamingForceIrad": "true",
   "StudioOpenWithStreamingRegionRadius": "65536",
   "StudioPackages": "768",
