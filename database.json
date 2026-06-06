@@ -1,5 +1,5 @@
 // Roblox Version: version-ad5d3e2906444472
-// Dumped at: 2026-06-06 15:54:12
+// Dumped at: 2026-06-06 19:28:28
 // Total FFlags: 13390
 // soulovery'all
 // Fuck Roblox
@@ -11152,7 +11152,7 @@
   "FIntRenderTextureDebugVisualization": 0,
   "FIntRenderTextureLoadingBudgetMB": 1024,
   "FIntRenderTextureLoadingMaxCount": 16384,
-  "FIntRenderTextureLoadingMaxMB": 669,
+  "FIntRenderTextureLoadingMaxMB": 671,
   "FIntRenderTextureLoadingMinMB": 16,
   "FIntRenderTextureManagerBudget": 0,
   "FIntRenderTextureManagerBudgetFor4k": 0,
@@ -13380,7 +13380,7 @@
   "SFFlagDebugAdaptivePVCompressor": false,
   "SFFlagIASUIModifier": true,
   "SFFlagIAS_InstancePointersHoldAcrossReplication3": true,
-  "SFFlagStudioOpenWithStreaming": false,
+  "SFFlagStudioOpenWithStreaming": true,
   "SFFlagUserPlayerScriptsCCLIntegrationA": false,
   "SFFlagUserPlayerScriptsCCLIntegrationB": false,
   "SFFlagUserPlayerScriptsCCLIntegrationC": false,
@@ -13394,5 +13394,5 @@
   "SFFlagUserPlayerScriptsRefactor3": false,
   "SFFlagUserPlayerScriptsTapToMoveUsesIAS2": true,
   "SFStringCLI198718Ver": "1",
-  "SFStringRCCChannelName": ""
+  "SFStringRCCChannelName": "production"
 }
